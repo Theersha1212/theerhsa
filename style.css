@@ -1,14 +1,24 @@
 body{
-    background-color: rgb(37, 37, 37);
+    background-image: url(background.jpg);
 }
 p{
     color: antiquewhite;
 }
 h1{
     text-align: center;
+    color: aliceblue;
+    border-style: groove; 
+    border-color: rgb(218, 198, 198);
+    
 }
 a.facebook:link{
     background-color: darkorange;
     text-decoration: none;
     
+}
+p.border{
+
+    border: 2px solid whitesmoke;
+    
+
 }
